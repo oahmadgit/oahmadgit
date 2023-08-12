@@ -50,6 +50,9 @@ My toolbox includes:
 I'm a friendly communicator and a true team player. Connect with me if you're looking for a passionate software engineer who's all about turning ideas into reality!
 
 <div align="center">
-    📧 [Email Me](mailto:m.osamaahmad@outlook.com) | 💼 [LinkedIn](https://www.linkedin.com/in/oahmad13) | 🌐 [Portfolio](https://www.salesforce.com/trailblazer/oahmad13)
+    <a href="mailto:m.osamaahmad@outlook.com">📧 Email Me</a> | 
+    <a href="https://www.linkedin.com/in/oahmad13">💼 LinkedIn</a> | 
+    <a href="https://www.salesforce.com/trailblazer/oahmad13">🌐 Portfolio</a>
 </div>
+
 
