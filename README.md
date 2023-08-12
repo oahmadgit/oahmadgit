@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <img src="https://your-image-url-here" alt="Your Profile Image" width="200" height="200">
-</div>
-
 # Hey there! 👋 I'm Osama
 
 As a seasoned 💻 Sr. Software Engineer with nearly 5 years of professional IT experience, I bring a dynamic skillset that enables me to navigate a wide range of technology stacks and lead successful teams. My journey has been all about crafting innovative solutions and driving excellence in every project.
@@ -25,25 +21,25 @@ As a seasoned 💻 Sr. Software Engineer with nearly 5 years of professional IT 
 
 I thrive on:
 
-🤝 Seamless client interactions and building strong relationships.
-🔥 Delivering captivating demos that showcase the magic behind the code.
-⚙️ Supporting colleagues in high-pressure situations and making the impossible possible.
+- 🤝 Seamless client interactions and building strong relationships.
+- 🔥 Delivering captivating demos that showcase the magic behind the code.
+- ⚙️ Supporting colleagues in high-pressure situations and making the impossible possible.
 
 ## Problem-Solving Champ 🛠️
 
 My passion for problem-solving is my superpower! I believe in:
 
-💡 Finding innovative solutions to complex challenges.
-🎯 Navigating through diverse technology stacks with ease.
+- 💡 Finding innovative solutions to complex challenges.
+- 🎯 Navigating through diverse technology stacks with ease.
 
 ## Tech Stack Mastery 🛡️
 
 My toolbox includes:
 
-📦 Node.js, Java, and NestJS for robust backend development.
-🌐 AWS Services (S3, Lambda, EC2, ECS, ECR) for scalable cloud solutions.
-🔌 MuleSoft for seamless integration.
-📊 MySQL and Oracle for data management excellence.
+- 📦 Node.js, Java, and NestJS for robust backend development.
+- 🌐 AWS Services (S3, Lambda, EC2, ECS, ECR) for scalable cloud solutions.
+- � MuleSoft for seamless integration.
+- 📊 MySQL and Oracle for data management excellence.
 
 ## Let's Collaborate! 🤝
 
@@ -54,5 +50,3 @@ I'm a friendly communicator and a true team player. Connect with me if you're lo
     <a href="https://www.linkedin.com/in/oahmad13">💼 LinkedIn</a> | 
     <a href="https://www.salesforce.com/trailblazer/oahmad13">🌐 Portfolio</a>
 </div>
-
-
