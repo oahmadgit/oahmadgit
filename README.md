@@ -38,7 +38,7 @@ My toolbox includes:
 
 - 📦 Node.js, Java, and NestJS for robust backend development.
 - 🌐 AWS Services (S3, Lambda, EC2, ECS, ECR) for scalable cloud solutions.
-- � MuleSoft for seamless integration.
+- 🔌 MuleSoft for seamless integration.
 - 📊 MySQL and Oracle for data management excellence.
 
 ## Let's Collaborate! 🤝
