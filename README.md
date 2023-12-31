@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey there! 👋 I'm Osama
 
-As a seasoned 💻 Sr. Software Engineer with 5+ years of professional IT experience, I bring a dynamic skillset that enables me to navigate a wide range of technology stacks and lead successful teams. My journey has been all about crafting innovative solutions and driving excellence in every project.
+A 💻 Sr. Software Engineer with 5+ years of professional IT experience, I bring a dynamic skillset that enables me to navigate a wide range of technology stacks and lead successful teams. My journey has been all about crafting innovative solutions and driving excellence in every project.
 
 ## What Makes Me Tick 🚀
 
@@ -48,5 +48,5 @@ I'm a friendly communicator and a true team player. Connect with me if you're lo
 <div align="center">
     <a href="mailto:m.osamaahmad@outlook.com">📧 Email Me</a> | 
     <a href="https://www.linkedin.com/in/oahmad13">💼 LinkedIn</a> | 
-    <a href="https://www.salesforce.com/trailblazer/oahmad13">🌐 Portfolio</a>
+    <a href="https://www.salesforce.com/trailblazer/oahmad13">🌐 Trailblazer</a>
 </div>
