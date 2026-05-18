@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey there! 👋 I'm Osama
 
-A 💻 Software Engineer with 5+ years of professional IT experience, I bring a dynamic skillset that enables me to navigate a wide range of technology stacks and lead successful teams. My journey has been all about crafting innovative solutions and driving excellence in every project.
+A 💻 Software Engineer with 7+ years of professional IT experience, I bring a dynamic skillset that enables me to navigate a wide range of technology stacks and lead successful teams. My journey has been all about crafting innovative solutions and driving excellence in every project.
 
 ## What Makes Me Tick 🚀
 
