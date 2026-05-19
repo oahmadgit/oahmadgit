@@ -1,4 +1,4 @@
-# Hey there! I'm Osama Ahmad 👋
+# Hey there! I'm Osama 👋
 
 A seasoned **Full-stack / Backend Software Engineer** with 7 years of professional experience. I specialize in tackling complex technical challenges, building scalable microservices, and engineering seamless enterprise integrations.
 
