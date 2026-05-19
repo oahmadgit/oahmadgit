@@ -1,24 +1,42 @@
 # Hey there! I'm Osama Ahmad 👋
 
-[span_0](start_span)A seasoned **Full-stack / Backend Software Engineer** with 7 years of professional experience[span_0](end_span). [span_1](start_span)I specialize in tackling complex technical challenges[span_1](end_span)[span_2](start_span), building scalable microservices[span_2](end_span), and engineering seamless enterprise integrations.
+A seasoned **Full-stack / Backend Software Engineer** with 7 years of professional experience. I specialize in tackling complex technical challenges, building scalable microservices, and engineering seamless enterprise integrations.
 
 ---
 
 ## 🚀 Tech Stack & Toolbox
 
-* **[span_3](start_span)Languages:** Java, JavaScript, TypeScript, PL/SQL, RAML, YAML[span_3](end_span)
-* **[span_4](start_span)[span_5](start_span)[span_6](start_span)Frameworks & UI:** Spring Boot, Node.js, NestJS, React.js, LoopBack, Prisma, Redux[span_4](end_span)[span_5](end_span)[span_6](end_span)
-* **[span_7](start_span)[span_8](start_span)[span_9](start_span)[span_10](start_span)Cloud & DevOps:** AWS (EC2, ECS, ECR, S3, Lambda, RDS, DynamoDB, CloudFormation), OpenShift, Jenkins, Terraform, Git[span_7](end_span)[span_8](end_span)[span_9](end_span)[span_10](end_span)
-* **[span_11](start_span)[span_12](start_span)[span_13](start_span)[span_14](start_span)Databases & Search:** PostgreSQL, MySQL, Oracle DB, DB2, MongoDB, ElasticSearch, Apache Solr[span_11](end_span)[span_12](end_span)[span_13](end_span)[span_14](end_span)
-* **[span_15](start_span)[span_16](start_span)[span_17](start_span)Integrations & ECM:** MuleSoft Anypoint Platform, IBM FileNet, IBM Datacap, IBM Case Manager[span_15](end_span)[span_16](end_span)[span_17](end_span)
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenShift](https://img.shields.io/badge/Openshift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+> **Other Tools & Enterprise Expertise:** Prisma, LoopBack, Redux, PL/SQL, ElasticSearch, Apache Solr, MuleSoft Anypoint Platform, IBM FileNet, IBM Datacap, IBM Case Manager.
 
 ---
 
 ## 🛠️ Core Expertise
 
-* **[span_18](start_span)Backend Engineering:** Designing high-availability microservices and optimizing application scalability[span_18](end_span).
-* **[span_19](start_span)System Integration:** Building decoupled architectures and event-driven messaging queues for fast platform onboarding[span_19](end_span).
-* **[span_20](start_span)Database Tuning:** Optimizing complex queries and tuning parameters to lower CPU utilization and latency[span_20](end_span).
+* **Backend Engineering:** Designing high-availability microservices and optimizing core application scalability.
+* **System Integration:** Building decoupled, messaging-based architectures to streamline third-party platform onboarding.
+* **Database Tuning:** Optimizing complex queries and performance parameters to significantly reduce latency and CPU utilization.
 
 ---
 
